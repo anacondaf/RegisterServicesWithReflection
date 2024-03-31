@@ -1,6 +1,9 @@
 # Inject services using reflection:
 
 ### Article Link: https://dev.to/tomfletcher9/net-6-register-services-using-reflection-3156
+### Extensive relative document:
+1. [Access attributes using reflection](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/accessing-attributes-by-using-reflection)
+
 #### Purpose of project
 - Show different ways on how to register services ready for DI
 - Using reflection to register services
@@ -18,5 +21,7 @@ dotnet ef database update
 ```
 
 API: http://localhost:8002/swagger/index.html
+
+
 
 Otherwise, you can just build the solution
